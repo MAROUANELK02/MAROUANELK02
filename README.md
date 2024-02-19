@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marouane</h1>
 <h3 align="center">A passionate Software Engineer and Coding Enthusiastic</h3>
-<img align="right" width="300" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
+<img align="right" width="300" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" style="margin-left: 20px;">
 
 - 📫 How to reach me **lasmak2002@gmail.com**
 
