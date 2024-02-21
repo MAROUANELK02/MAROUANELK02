@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marouane</h1>
 <h3 align="center">A passionate Software Engineer and Coding Enthusiastic</h3>
-<img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNkejhoeHh1MzAxczI5cnJ5MDNpeDd3NTY4dG9vZ20ybTZwdmp2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNkejhoeHh1MzAxczI5cnJ5MDNpeDd3NTY4dG9vZ20ybTZwdmp2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 - 📫 How to reach me **lasmak2002@gmail.com**
 
