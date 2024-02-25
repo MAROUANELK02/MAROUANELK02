@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marouane</h1>
 <h3 align="center">A passionate Software Engineer and Coding Enthusiastic</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marouanelk02&label=Profile%20views&color=0e75b6&style=flat" alt="marouane" /> </p>
-
 
 <img align="right" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNkejhoeHh1MzAxczI5cnJ5MDNpeDd3NTY4dG9vZ20ybTZwdmp2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
